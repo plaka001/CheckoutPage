@@ -45,7 +45,7 @@ h2 {
 
 main {
   justify-content: center;
-  gap: 1rem;
+  gap: 0.5rem;
   display: flex;
 }
 
